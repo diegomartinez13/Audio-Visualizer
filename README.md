@@ -1,4 +1,4 @@
-# PA1: Openframeworks Audiovisualizer
+# Openframeworks Audiovisualizer
 The objective for this first project is to complete this audiovisualizer with the help of OpenFrameworks!
 
 # What it can do out of the box
@@ -19,3 +19,5 @@ This is the class that brings most things together. Here, you will find the code
 
 ## AudioVisualizer
 The AudioVisualizer class provides us with the data needed to do the visualization. Using some of the tools OpenFrameworks provides us and math, we can obtain information such as the amplitude of the sound. 
+
+###### Project Partner: [Angel González](https://github.com/AngelGonzs)
